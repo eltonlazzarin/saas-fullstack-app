@@ -1,2 +1,2 @@
 # saas-fullstack-app
-Fullstack SaaS Web - Nodejs, ReactJS and React Nativee
+Fullstack SaaS Web - Nodejs, ReactJS and React Native
