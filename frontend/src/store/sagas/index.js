@@ -33,7 +33,3 @@ export default function* rootSaga() {
     takeLatest(MembersTypes.INVITE_MEMBER_REQUEST, inviteMember),
   ]);
 }
-
-/*
-takeLatest - última action enviada
-*/
