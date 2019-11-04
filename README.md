@@ -16,7 +16,7 @@
 
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/saas-fullstack-app">
 
-   <img alt="GitHub" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/LICENSE">
+   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/saas-fullstack-app">
 
   This projects was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
