@@ -69,8 +69,7 @@
   
    <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/invitemembers.png">
   
-   <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/addproject.png>
-    
+   
   This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
   - [ReactJS](https://reactjs.org/)
