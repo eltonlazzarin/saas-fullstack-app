@@ -22,34 +22,27 @@
 
   ### :rocket: Backend Technologies
 
-  - [Node.js](https://nodejs.org/)
-  - [Express](https://expressjs.com/)
-  - [nodemon](https://nodemon.io/)
-  - [Sucrase](https://github.com/alangpierce/sucrase)
-  - [Docker](https://www.docker.com/docker-community)
-  - [Sequelize](http://docs.sequelizejs.com/)
-  - [PostgreSQL](https://www.postgresql.org/)
-  - [node-postgres](https://www.npmjs.com/package/pg)
-  - [Redis](https://redis.io/)
-  - [MongoDB](https://www.mongodb.com/)
-  - [Mongoose](https://mongoosejs.com/)
-  - [JWT](https://jwt.io/)
-  - [Multer](https://github.com/expressjs/multer)
-  - [Bcrypt](https://www.npmjs.com/package/bcrypt)
-  - [Youch](https://www.npmjs.com/package/youch)
-  - [Yup](https://www.npmjs.com/package/yup)
-  - [Bee Queue](https://www.npmjs.com/package/bcrypt)
-  - [Nodemailer](https://nodemailer.com/about/)
-  - [date-fns](https://date-fns.org/)
-  - [Sentry](https://sentry.io/)
-  - [DotEnv](https://www.npmjs.com/package/dotenv)
-  - [VS Code](https://code.visualstudio.com/) with [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [AdonisJS](https://adonisjs.com/)
+  - [@adonisjs/ace](https://github.com/adonisjs/ace)
+  - [@adonisjs/antl](https://github.com/adonisjs/adonis-antl)
+  - [@adonisjs/auth](https://github.com/adonisjs/adonis-auth)
+  - [@adonisjs/bodyparser](https://github.com/adonisjs/adonis-bodyparser)
+  - [@adonisjs/lucid](https://github.com/adonisjs/adonis-lucid)
+  - [@adonisjs/cors](https://github.com/adonisjs/adonis-cors/issues)
+  - [@adonisjs/fold](https://www.npmjs.com/package/@adonisjs/fold)
+  - [@adonisjs/framework](https://github.com/adonisjs/adonis-framework)
+  - [@adonisjs/ignitor](https://github.com/adonisjs/adonis-ignitor)
+  - [@adonisjs/lucid-slugify](https://github.com/adonisjs/adonis-lucid-slugify)
+  - [@adonisjs/mail](https://github.com/adonisjs/adonis-mail)
+  - [@adonisjs/redis](https://github.com/adonisjs/adonis-redis)
+  - [@adonisjs/validator](https://github.com/adonisjs/adonis-validation-provider)
+  - [adonis-acl](https://github.com/enniel/adonis-acl)
 
   ## :information_source: How To Use
 
   ```bash
   # Clone this repository
-  $ git clone https://github.com/eltonlazzarin/meetapp.git
+  $ git clone https://github.com/eltonlazzarin/saas-fullstack-app.git
 
   # Go into the repository
   $ cd backend
@@ -69,7 +62,7 @@
 
   ### :rocket: Frontend Technologies (WebApp)
 
-  <img alt="Meetapp Web" src="https://github.com/eltonlazzarin/meetapp/blob/master/frontend/screenshots/meetapp.gif">
+  <img alt="SaaS Web" src="https://github.com/eltonlazzarin/meetapp/blob/master/frontend/screenshots/meetapp.gif">
 
   This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
@@ -162,7 +155,7 @@
 
   ### :memo: License
 
-  This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/meetapp/blob/master/LICENSE) for more information.
+  This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/LICENSE) for more information.
 
   ---
 
