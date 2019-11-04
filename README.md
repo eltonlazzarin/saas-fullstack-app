@@ -119,28 +119,29 @@
   This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
   - [React Native](https://facebook.github.io/react-native/)
+  - [@react-native-community/async-storage](https://github.com/react-native-community/async-storage)
   - [babel-plugin-root-import](https://github.com/entwicklerstube/babel-plugin-root-import)
   - [react-navigation](https://reactnavigation.org/)
   - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
   - [Redux](https://redux.js.org/)
   - [Redux-Saga](https://redux-saga.js.org/)
   - [redux-persist](https://github.com/rt2zz/redux-persist)
-  - [styled-components](https://www.styled-components.com/)
+  - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)
   - [Axios](https://github.com/axios/axios)
   - [Immer](https://github.com/immerjs/immer)
-  - [date-fns](https://date-fns.org/)
-  - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
+  - [react-native-redux-toast](https://github.com/Wolox/react-native-redux-toast)
   - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
   - [Reactotron](https://infinite.red/reactotron)
   - [reactotron-redux](https://github.com/infinitered/reactotron-redux)
   - [reactotron-redux-saga](https://github.com/infinitered/reactotron-redux-sagan)
+  - [reduxsauce](https://github.com/jkeam/reduxsauce)
   - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
   ## :information_source: How To Use
 
   ```bash
   # Clone this repository
-  $ git clone https://github.com/eltonlazzarin/meetapp.git
+  $ git clone https://github.com/eltonlazzarin/saas-fullstack-app.git
 
   # Go into the repository
   $ cd mobile
