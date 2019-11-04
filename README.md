@@ -9,7 +9,14 @@
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/saas-fullstack-app">
-  
+    
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/saas-fullstack-app">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/saas-fullstack-app">
+
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/saas-fullstack-app">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/saas-fullstack-app">
    
 
   This projects was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
