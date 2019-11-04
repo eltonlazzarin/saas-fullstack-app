@@ -62,25 +62,25 @@
 
   ### :rocket: Frontend Technologies (WebApp)
 
-  <img alt="SaaS Web" src="https://github.com/eltonlazzarin/meetapp/blob/master/frontend/screenshots/meetapp.gif">
-
+  <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/login.png">
+  <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/createteam.png">
+  <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/invitemembers.png">
+  <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/addproject.png
   This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
   - [ReactJS](https://reactjs.org/)
-  - [Create React App Configuration Override](https://github.com/sharegate/craco)
   - [Redux](https://redux.js.org/)
   - [Redux-Saga](https://redux-saga.js.org/)
   - [React Router v5](https://github.com/ReactTraining/react-router)
   - [styled-components](https://www.styled-components.com/)
   - [Axios](https://github.com/axios/axios)
+  - [reduxsauce](https://github.com/jkeam/reduxsauce)
   - [History](https://www.npmjs.com/package/history)
-  - [Immer](https://github.com/immerjs/immer)
-  - [Polished](https://polished.js.org/)
-  - [React-Toastify](https://fkhadra.github.io/react-toastify/)
-  - [React-Icons](http://react-icons.github.io/react-icons/)
-  - [Unform](https://github.com/Rocketseat/unform)
-  - [Yup](https://www.npmjs.com/package/yup)
-  - [date-fns](https://date-fns.org/)
+  - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)
+  - [react-redux-toastr](https://github.com/diegoddox/react-redux-toastr)
+  - [react-select](https://github.com/JedWatson/react-select)
+  - [reactotron-redux](https://github.com/infinitered/reactotron)
+  - [reactotron-redux-saga](https://github.com/infinitered/reactotron-redux-saga)
   - [Reactotron](https://infinite.red/reactotron)
   - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
@@ -88,7 +88,7 @@
 
   ```bash
   # Clone this repository
-  $ git clone https://github.com/eltonlazzarin/meetapp.git
+  $ git clone https://github.com/eltonlazzarin/saas-fullstack-app.git
 
   # Go into the repository
   $ cd frontend
@@ -109,7 +109,7 @@
   ## :rocket: Mobile Technologies
 
   <p align="center">
-  <img alt="MeetApp Mobile" src="https://github.com/eltonlazzarin/meetapp/blob/master/mobile/screenshots/meetapp.png">
+  <img alt="" src="">
   </p>
 
   This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
