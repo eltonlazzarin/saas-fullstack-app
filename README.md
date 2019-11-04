@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="" src="" />
     <br>
-    MeetApp FullStack
+    SaaS FullStack
 </h1>
 
 <h4 align="center">
@@ -16,7 +16,7 @@
 
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/saas-fullstack-app">
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/saas-fullstack-app">
+   <img alt="GitHub" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/LICENSE">
 
   This projects was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
