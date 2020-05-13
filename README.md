@@ -21,7 +21,7 @@
 
   This projects was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
-  ### :rocket: Backend Technologies
+  ## :rocket: Backend Technologies
 
   - [AdonisJS](https://adonisjs.com/)
   - [@adonisjs/ace](https://github.com/adonisjs/ace)
@@ -61,7 +61,7 @@
 
   ---
 
-  ### :rocket: Frontend Technologies (WebApp)
+  ## :rocket: Frontend Technologies (WebApp)
   <p align="center">
    <img alt="SaaS Web" src="https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/frontend/screenshots/login.png">
     
@@ -104,7 +104,7 @@
   $ yarn start
   ```
 
-  ### :memo: License
+  ## :memo: License
 
   This project is under the MIT license.
 
@@ -158,7 +158,7 @@
   $ react-native run-android
   ```
 
-  ### :memo: License
+  ## :memo: License
 
   This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/saas-fullstack-app/blob/master/LICENSE) for more information.
 
