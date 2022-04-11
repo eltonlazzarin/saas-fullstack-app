@@ -32,7 +32,7 @@
     "@adonisjs/validator": "^5.0.6",
     "adonis-acl": "^1.1.1",
     "adonis-kue": "^5.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pg": "^7.9.0",
     "url-parse": "^1.5.9"
   },
